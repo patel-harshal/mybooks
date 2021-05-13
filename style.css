@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: linear-gradient(to right top, #adb933, #8cc658, #69d17f, #42d8a7, #13decc);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	background-size: 400% 400%;
+	position: relative;
+}
+#name{
+	color: white;
+}
+#image{
+	height: 250px;
+}
+#contact{
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	font-size: 25px;
+}
+#contact-logo{
+	height: 50px;
+}
